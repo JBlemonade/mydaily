@@ -15,7 +15,7 @@ int main(void)
 	return 0;
 }
 
-/* 打印博主log信息 */
+/* giao */
 void author_log(void)
 {
 	printf("author name: dingyc  \n");
